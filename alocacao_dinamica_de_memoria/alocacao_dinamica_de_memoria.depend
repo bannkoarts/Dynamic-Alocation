@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716045183 source:c:\users\brandon martins\documents\unigran 1 semestre\unigran 2 semestre\c c++\exemplo1\alocacao_dinamica_de_memoria\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
